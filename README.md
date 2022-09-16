@@ -22,7 +22,7 @@ Yash Atreya, 86003902
 
 - ```git init```
 
-- ```git clone [repo-url]```
+- ```git clone [repo-url]``` https://github.com/yash-atreya/CS499-Individual-Github-Exercise.git
 
 - ```git checkout -b [new-branch-name]```
 
