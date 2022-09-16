@@ -49,3 +49,7 @@ Yash Atreya, 86003902
 ## Run Commands
 
 - Run the ```index.js``` by navigating to the project directory in the terminal and typing ```node index.js```
+
+## Video
+
+- Video can be found here: https://drive.google.com/file/d/15KWv3nCrJdqRrnhrWLspU8HxxW69sng2/view?usp=sharing
