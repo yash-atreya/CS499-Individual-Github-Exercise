@@ -22,6 +22,8 @@ Yash Atreya, 86003902
 
 - ```git init```
 
+- ```git clone [repo-url]```
+
 - ```git checkout -b [new-branch-name]```
 
 - ```git checkout [branch-name]```
@@ -35,6 +37,8 @@ Yash Atreya, 86003902
 - ```git commit -m "commit-message"```
 
 - ```git merge -m "merge-message```
+
+- ```git log```
 
 ## Environment Setup
 
